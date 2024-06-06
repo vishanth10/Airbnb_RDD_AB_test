@@ -1,4 +1,4 @@
-# MLProject
+# Assignment Projects on Data Science/ ML 
 
 Project developed as part of UCLA course works - ML from open sources.
 
